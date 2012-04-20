@@ -1,0 +1,26 @@
+
+body{
+	margin: 0 auto;
+	padding: 0;
+	
+	background-image:url("images/background.jpg");
+	background-attachment: fixed;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-color:#000000;
+
+	
+}
+
+h1.logo{
+	width: 630px;
+	height: 343px;
+	top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	
+	background: url("images/logo.png") top center;
+	text-indent: -9999px;
+	
+}
+
