@@ -4,7 +4,7 @@ body{
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-color:#000000;
-
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 #wrapper{
@@ -12,7 +12,7 @@ body{
 	width:630px;
 	margin:5px auto;
 	text-align:left;
-	font-family: Helvetica, Arial, sans-serif;
+	
 	position: relative;
 }
 
@@ -37,6 +37,13 @@ div.nav{
 
 .nav ul li{
 	padding: 5px 15px;
+	list-style: none;
+	float: left;
+	
+}
+
+.nav ul li a{
+	display: block;
 }
 
 
