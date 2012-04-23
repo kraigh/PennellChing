@@ -55,7 +55,7 @@ div.nav{
 	list-style: none;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 6px;
+	margin-top: 7px;
 	
 	text-align: center;
 	display: inline-block;
@@ -65,7 +65,25 @@ div.nav{
 .nav ul li a{
 	color: #1d1d1d;
 	text-decoration: none;
-	font: bold .8em "Times New Roman", Georgia, Times, serif;
+	font: bold .8em Georgia, "Times New Roman", Times, serif;
+
+}
+
+.nav ul li:hover{
+	background-color: rgba(0, 0, 0, 0.44);
+	opacity: 1;
+	-moz-box-shadow: -2px 0 2px rgba(0, 0, 0, 0.31), 2px 0 2px rgba(0, 0, 0, 0.31), 0 -2px 2px rgba(0, 0, 0, 0.31), 0 2px 2px rgba(0, 0, 0, 0.31);
+	-webkit-box-shadow: -2px 0 2px rgba(0, 0, 0, 0.31), 2px 0 2px rgba(0, 0, 0, 0.31), 0 -2px 2px rgba(0, 0, 0, 0.31), 0 2px 2px rgba(0, 0, 0, 0.31);
+	box-shadow: -2px 0 2px rgba(0, 0, 0, 0.31), 2px 0 2px rgba(0, 0, 0, 0.31), 0 -2px 2px rgba(0, 0, 0, 0.31), 0 2px 2px rgba(0, 0, 0, 0.31);
+}
+
+.nav ul li:active{
+	background-color: rgba(0, 0, 0, 0.44);
+	opacity: 1;
+	-moz-box-shadow: -2px 0 2px rgba(0, 0, 0, 0.31), 2px 0 2px rgba(0, 0, 0, 0.31), 0 -2px 2px rgba(0, 0, 0, 0.31), 0 2px 2px rgba(0, 0, 0, 0.31);
+	-webkit-box-shadow: -2px 0 2px rgba(0, 0, 0, 0.31), 2px 0 2px rgba(0, 0, 0, 0.31), 0 -2px 2px rgba(0, 0, 0, 0.31), 0 2px 2px rgba(0, 0, 0, 0.31);
+	box-shadow: -2px 0 2px rgba(0, 0, 0, 0.31), 2px 0 2px rgba(0, 0, 0, 0.31), 0 -2px 2px rgba(0, 0, 0, 0.31), 0 2px 2px rgba(0, 0, 0, 0.31);
+	
 }
 
 .body{
