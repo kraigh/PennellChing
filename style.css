@@ -1,3 +1,9 @@
+*{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+}
+
 body{
 	background-image:url("images/background.jpg");
 	background-attachment: fixed;
@@ -14,6 +20,7 @@ body{
 	text-align:left;
 	
 	position: relative;
+	left: -1px;
 }
 
 h1.logo{
@@ -30,20 +37,35 @@ div.nav{
 	
 	height: 64px;
 	background: url("images/navbar.png") top center no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
 	
-	
-	
+
 }
+
+.nav ul{
+
+}
+
+
 
 .nav ul li{
 	padding: 5px 15px;
 	list-style: none;
-	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6px;
+	
+	text-align: center;
+	display: inline-block;
 	
 }
 
 .nav ul li a{
-	display: block;
+	color: #1d1d1d;
+	text-decoration: none;
+	font: bold .8em "Times New Roman", Georgia, Times, serif;
 }
 
 .body{
@@ -60,6 +82,8 @@ div.nav{
 	
 	
 }
+
+/* @end */
 
 
 
