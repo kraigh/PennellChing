@@ -11,16 +11,17 @@ body{
 	background-repeat: no-repeat;
 	background-color:#000000;
 	font-family: Helvetica, Arial, sans-serif;
+	
 }
 
 #wrapper{
 
 	width:750px;
-	margin:5px auto;
+	margin:0px auto;
 	text-align:left;
 	
 	position: relative;
-	left: -1px;
+
 }
 
 h1.logo{
@@ -111,6 +112,53 @@ div.nav{
 	float: right;
 	margin: 0px 20px;
 
+}
+
+div.footer{
+	background-color: rgba(0, 0, 0, 0.6);
+	margin-top: 150px;
+	font: normal normal 13px/20px Georgia, "Times New Roman", Times, serif;
+	position: absolute;
+	width: 750px;
+	color: rgba(255, 255, 255, 0.64);
+	text-decoration: none;
+	text-shadow: 0 -1px 0 #000000;
+	
+	
+	
+}
+
+div.footer ul{
+	list-style: none;
+	
+}
+
+div.footer ul li a{
+	color: rgba(255, 255, 255, 0.85);
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+	text-shadow: 0 -1px 0 #000000;
+}
+
+div.footer ul.menu{
+	float: left;
+	width: 225px;
+	padding-left: 37.5px;
+	
+}
+
+
+
+div.footer ul.contact{
+	float: left;
+	width: 225px;
+}
+
+div.footer ul.site{
+	float: left;
+	width: 225px;
+	padding-left: 37.5px;
 }
 
 /* @end */
