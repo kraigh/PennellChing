@@ -92,15 +92,25 @@ div.nav{
 	width: 630px;
 	margin-left: auto;
 	margin-right: auto;
+	
 }
 
 
-.body p{
 
-	font-size: 13px;
-	line-height: 17px;
-	
-	
+.body p{
+	font: 13px/20px Georgia, "Times New Roman", Times, serif;
+	margin-left: 20px;
+
+}
+
+.body div #introtext p{
+
+}
+
+.body div.fb-like-box{
+	float: right;
+	margin: 0px 20px;
+
 }
 
 /* @end */
