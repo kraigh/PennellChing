@@ -104,13 +104,15 @@ div.nav{
 
 }
 
-.body div #introtext p{
-
+.body #introtext{
+	
+	
 }
 
 .body div.fb-like-box{
 	float: right;
 	margin: 0px 20px;
+
 
 }
 
@@ -120,7 +122,6 @@ div.footer{
 	font: normal normal 13px/20px Georgia, "Times New Roman", Times, serif;
 	position: absolute;
 	width: 750px;
-/*	left: -1px;*/
 	color: rgba(255, 255, 255, 0.64);
 	text-decoration: none;
 	text-shadow: 0 -1px 0 #000000;
