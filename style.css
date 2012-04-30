@@ -146,6 +146,11 @@ div.quotewrapper .iconcontainer #quoteright{
 	margin-left: 20px;
 }
 
+.body p .firstword{
+	font-variant: small-caps;
+	font-size: 30px;
+}
+
 .frontpage p{
 	width: 340px;
 }
