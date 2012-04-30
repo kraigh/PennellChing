@@ -93,44 +93,52 @@ div.nav{
 	width: 630px;
 	margin-left: auto;
 	margin-right: auto;
-	
 }
 
-div.quote{
-	width: 525px;
-	padding: 5px;
+div.quotewrapper{
 	margin-bottom: 25px;
-	position: relative;
 }
 
-div.quote p{
-	color: rgb(0, 0, 0);
-	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.56);
-	text-align: justify;
-	font: italic 1.1em/30px "adelle", serif;
-	width: 450px;
+div.quotewrapper div#quotetext{
+	width: 480px;
+}
+div.quotewrapper #quotetext p{
+	color: rgba(0, 0, 0, 0.83);
+	text-shadow: 0 1px 0 rgb(255, 255, 255);
+	text-align: center;
+	font: italic 1.15em/40px "adelle", serif;
 	margin: auto auto auto auto;
+
+
 }
 
-div.quote .quoteicon{
-
+div.quotewrapper .iconcontainer{
+	width: 75px;
+	position: relative;
 	
 }
 
-div.quote #quoteleft{
-	
+div.quotewrapper #leftcontainer{
 	float: left;
-	padding-right: 20px;
+
 }
 
-div.quote #quoteright{
+div.quotewrapper #rightcontainer{
 	float: right;
-	position: absolute;
-	right: 10px;
-	top: 60%;
-	padding-left: 20px;
 }
 
+div.quotewrapper .iconcontainer #quoteleft{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	
+}
+
+div.quotewrapper .iconcontainer #quoteright{
+	position: absolute;
+	bottom: 10px;
+	left: 0px;
+}
 
 
 .body p{
