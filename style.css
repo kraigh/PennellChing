@@ -93,6 +93,7 @@ div.nav{
 	width: 630px;
 	margin-left: auto;
 	margin-right: auto;
+
 }
 
 div.quotewrapper{
@@ -139,6 +140,34 @@ div.quotewrapper .iconcontainer #quoteright{
 	bottom: 10px;
 	left: 0px;
 }
+
+/*     CONTACT PAGE SPECIFIC CSS     */
+#contact div.quotewrapper .iconcontainer{
+	visibility: hidden;
+	width: 0px;
+}
+
+#contact div.quotewrapper div#quotetext{
+	width: 600px;
+	visibility: hidden;
+}
+
+#contact div.quotewrapper{
+	visibility: hidden;
+}
+
+#contact div.quotewrapper #quotetext p{
+	color: rgba(0, 0, 0, 0.83);
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.77);
+	text-align: center;
+	margin: auto auto auto auto;
+	font: italic .85em/25px "adelle", serif;
+}
+
+#contact #introtext span{
+	display: block;
+}
+
 
 
 .body p{
