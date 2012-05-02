@@ -64,12 +64,12 @@ div.nav{
 }
 
 .nav ul li a{
-	padding: 5px 15px;
 	display: inline-block;
 	color: #1d1d1d;
 	text-decoration: none;
 	font: bold .8em "adelle", serif;
 	margin-top: 8.5px;
+	padding: 7px 15px 3px;
 }
 
 .nav ul li a:hover{
@@ -104,7 +104,7 @@ div.quotewrapper div#quotetext{
 }
 div.quotewrapper #quotetext p{
 	color: rgba(0, 0, 0, 0.83);
-	text-shadow: 0 1px 0 rgb(255, 255, 255);
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.77);
 	text-align: center;
 	font: italic 1.15em/40px "adelle", serif;
 	margin: auto auto auto auto;
@@ -149,6 +149,7 @@ div.quotewrapper .iconcontainer #quoteright{
 .body p .firstword{
 	font-variant: small-caps;
 	font-size: 20px;
+	font-weight: bold;
 }
 
 .frontpage p{
@@ -169,13 +170,13 @@ div.quotewrapper .iconcontainer #quoteright{
 
 div.footer{
 	background-color: rgba(0, 0, 0, 0.6);
-	margin-top: 150px;
+	margin-top: 100px;
 	font: normal normal 13px/20px "adelle", serif;
 	position: absolute;
 	width: 750px;
 	color: rgba(255, 255, 255, 0.74);
 	text-decoration: none;
-	text-shadow: 0 1.5px 0 #000000;
+	text-shadow: 0 -1.5px 0 rgba(0, 0, 0, 0.78);
 	
 	
 	
@@ -188,9 +189,9 @@ div.footer ul{
 
 div.footer ul li a{
 	color: rgba(255, 255, 255, 0.84);
-	text-shadow: 0 1.5px 0 #000000;
+	text-shadow: 0 -1.5px 0 rgba(0, 0, 0, 0.78);
 	text-decoration: none;
-	font-style: normal;
+	font-style: italic;
 	font-variant: normal;
 }
 
