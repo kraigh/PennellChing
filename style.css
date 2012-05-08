@@ -10,18 +10,14 @@ body{
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-color:#000000;
-	font-family: "adelle",serif;
-	
+	font-family: "adelle",serif;	
 }
 
 #wrapper{
-
 	width:750px;
 	margin:0px auto;
 	text-align:left;
-	
 	position: relative;
-
 }
 
 h1.logo{
@@ -30,37 +26,22 @@ h1.logo{
 	top: 10%;
 	margin-left: auto;
 	margin-right: auto;
-	
-	
 }
 
 div.nav{
-	
 	height: 64px;
 	background: url("images/navbar.png") top center no-repeat;
 	margin-right: auto;
 	margin-left: auto;
 	text-align: center;
-	
-
 }
-
-.nav ul{
-
-}
-
-
 
 .nav ul li{
-	
 	list-style: none;
 	margin-left: auto;
 	margin-right: auto;
-	
-	
 	text-align: center;
 	display: inline-block;
-	
 }
 
 .nav ul li a{
@@ -86,14 +67,10 @@ div.nav{
 	-moz-box-shadow: -2px 0 2px rgba(0, 0, 0, 0.31), 2px 0 2px rgba(0, 0, 0, 0.31), 0 -2px 2px rgba(0, 0, 0, 0.31), 0 2px 2px rgba(0, 0, 0, 0.31);
 	-webkit-box-shadow: -2px 0 2px rgba(0, 0, 0, 0.31), 2px 0 2px rgba(0, 0, 0, 0.31), 0 -2px 2px rgba(0, 0, 0, 0.31), 0 2px 2px rgba(0, 0, 0, 0.31);
 	box-shadow: -2px 0 2px rgba(0, 0, 0, 0.31), 2px 0 2px rgba(0, 0, 0, 0.31), 0 -2px 2px rgba(0, 0, 0, 0.31), 0 2px 2px rgba(0, 0, 0, 0.31);
-	
 }
 
 .body{
 	width: 630px;
-/*	margin-left: auto;
-	margin-right: auto;*/
-
 }
 
 div.quotewrapper{
@@ -104,25 +81,22 @@ div.quotewrapper{
 div.quotewrapper div#quotetext{
 	width: 550px;
 }
+
 div.quotewrapper #quotetext p{
 	color: rgba(0, 0, 0, 0.83);
 	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.77);
 	text-align: center;
 	font: italic 1.15em/40px "adelle", serif;
 	margin: auto auto auto auto;
-
-
 }
 
 div.quotewrapper .iconcontainer{
 	width: 40px;
 	position: relative;
-	
 }
 
 div.quotewrapper #leftcontainer{
 	float: left;
-
 }
 
 div.quotewrapper #rightcontainer{
@@ -133,7 +107,6 @@ div.quotewrapper .iconcontainer #quoteleft{
 	position: absolute;
 	top: 0px;
 	right: 0px;
-	
 }
 
 div.quotewrapper .iconcontainer #quoteright{
@@ -169,8 +142,6 @@ div.quotewrapper .iconcontainer #quoteright{
 	display: block;
 }
 
-
-
 .body p{
 	font: 13px/20px "adelle", serif;
 	margin-left: 20px;
@@ -191,24 +162,11 @@ div.quotewrapper .iconcontainer #quoteright{
 	margin-bottom: 40px;
 }
 
-
-
-
-
-
-
-
 /*     ABOUT PAGE PHOTO LAYOUT     */
-
 
 .body div.aboutphoto{
 	text-align: center;
 }
-
-.body div.aboutpage p{
-
-	}
-
 
 .body div.aboutphoto span{
 	display: block;
@@ -217,8 +175,6 @@ div.quotewrapper .iconcontainer #quoteright{
 	font-weight: bold;
 	margin-bottom: 10px;
 }
-
-.body div.
 
 a.profile{
 	color: #32518a;
@@ -231,7 +187,6 @@ text-align: center;
 a.backnav{
 		color: #32518a;
 }
-
 
 .propic1{
 	float: right;
@@ -249,9 +204,6 @@ a.backnav{
 	margin-bottom: 5px;
 }
 
-
-
-
 .body #introtext p{
 	width: 340px;	
 	
@@ -260,8 +212,6 @@ a.backnav{
 .body div.fb-like-box{
 	float: right;
 	margin: 0px 20px;
-
-
 }
 
 div.footer{
@@ -276,9 +226,7 @@ div.footer{
 	color: rgba(255, 255, 255, 0.74);
 	text-decoration: none;
 	text-shadow: 0 -1.5px 0 rgba(0, 0, 0, 0.78);
-	
 	overflow: auto;
-	
 	display: block;
 
 }
@@ -295,18 +243,11 @@ div.footer ul li a{
 	font-variant: normal;
 }
 
-div.footer ul li a:hover{
-
-}
-
 div.footer ul.menu{
 	float: left;
 	width: 225px;
 	padding-left: 37.5px;
-	
 }
-
-
 
 div.footer ul.contact{
 	float: left;
@@ -320,6 +261,3 @@ div.footer ul.site{
 }
 
 /* @end */
-
-
-
