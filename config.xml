@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="rgba(34,34,34,0)"
+	galleryHeight="100%"
+	showOpenButton="false"
+	showExpandButton="true"
+	showThumbsButton="false"
+	indexPageName="gallery.html"
+
+>
+  <image imageURL="images/CareNetInside1.jpg"
+	thumbURL="thumbs/CareNetInside1.jpg"
+	linkURL="images/CareNetInside1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[CareNet Inside 1]]></title>
+    <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County. (Inside)]]></caption>
+  </image>
+  <image imageURL="images/CareNetInside2.jpg"
+	thumbURL="thumbs/CareNetInside2.jpg"
+	linkURL="images/CareNetInside2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[CareNet Inside 2]]></title>
+    <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County. (Inside)]]></caption>
+  </image>
+  <image imageURL="images/CareNetInside3.jpg"
+	thumbURL="thumbs/CareNetInside3.jpg"
+	linkURL="images/CareNetInside3.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[CareNet Inside 3]]></title>
+    <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County. (Inside)]]></caption>
+  </image>
+  <image imageURL="images/CareNetInside4.jpg"
+	thumbURL="thumbs/CareNetInside4.jpg"
+	linkURL="images/CareNetInside4.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[CareNet Inside 4]]></title>
+    <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County. (Inside)]]></caption>
+  </image>
+  <image imageURL="images/CareNetOutside.jpg"
+	thumbURL="thumbs/CareNetOutside.jpg"
+	linkURL="images/CareNetOutside.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[CareNet Outside]]></title>
+    <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County.]]></caption>
+  </image>
+  <image imageURL="images/CareNetOutsideOther.jpg"
+	thumbURL="thumbs/CareNetOutsideOther.jpg"
+	linkURL="images/CareNetOutsideOther.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[CareNetOutsideOther]]></title>
+    <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County.]]></caption>
+  </image>
+  <image imageURL="images/CEFInside.jpg"
+	thumbURL="thumbs/CEFInside.jpg"
+	linkURL="images/CEFInside.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[CEF Inside]]></title>
+    <caption><![CDATA[A two page spread inside of a booklet that PennellChing produced for an event benefitting Child Evangelism Fellowship in Montgomery, Alabama.]]></caption>
+  </image>
+  <image imageURL="images/CEFOutside.jpg"
+	thumbURL="thumbs/CEFOutside.jpg"
+	linkURL="images/CEFOutside.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[CEF Outside]]></title>
+    <caption><![CDATA[The cover of a booklet that PennellChing produced for an event benefitting Child Evangelism Fellowship in Montgomery, Alabama.]]></caption>
+  </image>
+  <image imageURL="images/ConcertFlyer.jpg"
+	thumbURL="thumbs/ConcertFlyer.jpg"
+	linkURL="images/ConcertFlyer.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Concert Flyer]]></title>
+    <caption><![CDATA[Promotional Poster for the JD Souther Benefit Concert that PennellChing Development is producing for the Texas Heritage League. Sam Houston IV, the great grandson of General Sam Houston will be guest hosting the event. We will be celebrating the completion of the 3 hour documentary film on the life of Sam Houston that was just done by the Texas Heritage League and raising money for the ongoing work of the organization.]]></caption>
+  </image>
+  <image imageURL="images/responsecard.jpg"
+	thumbURL="thumbs/responsecard.jpg"
+	linkURL="images/responsecard.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Response Card]]></title>
+    <caption><![CDATA[A response card designed by PennellChing, implemented by Sammy Tippit Ministries.]]></caption>
+  </image>
+  <image imageURL="images/SourceBack2.jpg"
+	thumbURL="thumbs/SourceBack2.jpg"
+	linkURL="images/SourceBack2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Source Back 2]]></title>
+    <caption><![CDATA[Back Panel of the Case Statement for The Source, Vero Beach's ministry to the homeless and needy in Indian River County.]]></caption>
+  </image>
+  <image imageURL="images/SourceFront2.jpg"
+	thumbURL="thumbs/SourceFront2.jpg"
+	linkURL="images/SourceFront2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Source Front 2]]></title>
+    <caption><![CDATA[Front Panel of the Case Statement for The Source, Vero Beach's ministry to the homeless and needy in Indian River County.]]></caption>
+  </image>
+  <image imageURL="images/THLBack2.jpg"
+	thumbURL="thumbs/THLBack2.jpg"
+	linkURL="images/THLBack2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[THL Back 2]]></title>
+    <caption><![CDATA[Back Panel of Texas Heritage League Case Statement Piece.]]></caption>
+  </image>
+  <image imageURL="images/THLFront.jpg"
+	thumbURL="thumbs/THLFront.jpg"
+	linkURL="images/THLFront.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[THL Front]]></title>
+    <caption><![CDATA[Caption]]></caption>
+  </image>
+</juiceboxgallery>

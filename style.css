@@ -97,7 +97,8 @@ div.nav{
 }
 
 div.quotewrapper{
-	margin-bottom: 25px;
+	margin-top: 25px;
+	margin-bottom: 50px;
 }
 
 div.quotewrapper div#quotetext{
@@ -266,9 +267,12 @@ a.backnav{
 div.footer{
 	background-color: rgba(0, 0, 0, 0.6);
 	margin-top: 100px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 	font: normal normal 13px/20px "adelle", serif;
 	position: absolute;
 	width: 750px;
+	left: -1px;
 	color: rgba(255, 255, 255, 0.74);
 	text-decoration: none;
 	text-shadow: 0 -1.5px 0 rgba(0, 0, 0, 0.78);
