@@ -10,9 +10,22 @@
 	showOpenButton="false"
 	showExpandButton="true"
 	showThumbsButton="false"
-	indexPageName="gallery.html"
 
 >
+  <image imageURL="images/CareNetOutside.jpg"
+	thumbURL="thumbs/CareNetOutside.jpg"
+	linkURL="images/CareNetOutside.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[CareNet Outside]]></title>
+    <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County.]]></caption>
+  </image>
+  <image imageURL="images/CareNetOutsideOther.jpg"
+	thumbURL="thumbs/CareNetOutsideOther.jpg"
+	linkURL="images/CareNetOutsideOther.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[CareNetOutsideOther]]></title>
+    <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County.]]></caption>
+  </image>
   <image imageURL="images/CareNetInside1.jpg"
 	thumbURL="thumbs/CareNetInside1.jpg"
 	linkURL="images/CareNetInside1.jpg"
@@ -41,20 +54,7 @@
     <title><![CDATA[CareNet Inside 4]]></title>
     <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County. (Inside)]]></caption>
   </image>
-  <image imageURL="images/CareNetOutside.jpg"
-	thumbURL="thumbs/CareNetOutside.jpg"
-	linkURL="images/CareNetOutside.jpg"
-	linkTarget="_blank">
-    <title><![CDATA[CareNet Outside]]></title>
-    <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County.]]></caption>
-  </image>
-  <image imageURL="images/CareNetOutsideOther.jpg"
-	thumbURL="thumbs/CareNetOutsideOther.jpg"
-	linkURL="images/CareNetOutsideOther.jpg"
-	linkTarget="_blank">
-    <title><![CDATA[CareNetOutsideOther]]></title>
-    <caption><![CDATA[Case Statement - Care Net Pregnancy Center, Indian River County.]]></caption>
-  </image>
+  
   <image imageURL="images/CEFInside.jpg"
 	thumbURL="thumbs/CEFInside.jpg"
 	linkURL="images/CEFInside.jpg"
