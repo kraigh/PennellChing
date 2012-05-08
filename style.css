@@ -200,7 +200,7 @@ div.quotewrapper .iconcontainer #quoteright{
 }
 
 .body div.aboutpage p{
-	float: left;
+
 	}
 
 
@@ -209,12 +209,41 @@ div.quotewrapper .iconcontainer #quoteright{
 	margin-top: -10px;
 	font-size: .80em;
 	font-weight: bold;
-	margin-bottom: 25px;
+	margin-bottom: 10px;
 }
+
+.body div.
 
 a.profile{
 	color: #32518a;
 }
+
+.proprofile h1{
+text-align: center;
+}
+
+a.backnav{
+		color: #32518a;
+}
+
+
+.propic1{
+	float: right;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+.propic2{
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 5px;
+}
+
+.propic2 img{
+	margin-bottom: 5px;
+}
+
+
 
 
 .body #introtext p{
@@ -240,6 +269,8 @@ div.footer{
 	text-shadow: 0 -1.5px 0 rgba(0, 0, 0, 0.78);
 	
 	overflow: auto;
+	
+	display: block;
 
 }
 
@@ -252,7 +283,6 @@ div.footer ul li a{
 	color: rgba(255, 255, 255, 0.84);
 	text-shadow: 0 -1.5px 0 rgba(0, 0, 0, 0.78);
 	text-decoration: none;
-	font-style: italic;
 	font-variant: normal;
 }
 
