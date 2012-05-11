@@ -210,7 +210,7 @@ div.footer{
 	font: normal normal 13px/20px "adelle", serif;
 	position: absolute;
 	width: 100%;
-/*	left: -1px;*/
+	left: -1px;
 	color: rgb(161, 161, 161);
 	text-decoration: none;
 	text-shadow: 0 -1.5px 0 rgb(0, 0, 0);
