@@ -1,9 +1,11 @@
+/*Basic browser reset*/
 *{
 	margin-left: auto;
 	margin-right: auto;
 	padding: 0;
 }
 
+/*IE img inside of a tag fix*/
 a img{
   border:none;
 }
@@ -214,9 +216,8 @@ div.footer{
 	color: rgb(161, 161, 161);
 	text-decoration: none;
 	text-shadow: 0 -1.5px 0 rgb(0, 0, 0);
-	overflow: auto;
+/*	overflow: auto;*/
 	display: block;
-
 }
 
 div.footer ul{
