@@ -8,7 +8,7 @@ body{
 	background-image:url("images/background.jpg");
 	background-attachment: fixed;
 	background-position: top center;
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
 	background-color:#000000;
 	font-family: "adelle",serif;	
 }
@@ -83,8 +83,8 @@ div.quotewrapper div#quotetext{
 }
 
 div.quotewrapper #quotetext p{
-	color: rgba(0, 0, 0, 0.83);
-	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.77);
+	color: rgb(52, 52, 52);
+	text-shadow: 0 1px 0 rgb(208, 208, 208);
 	text-align: center;
 	font: italic 1.15em/40px "adelle", serif;
 	margin: auto auto auto auto;
@@ -116,26 +116,9 @@ div.quotewrapper .iconcontainer #quoteright{
 }
 
 /*     CONTACT PAGE SPECIFIC CSS     */
-#contact div.quotewrapper .iconcontainer{
-	visibility: hidden;
-	width: 0px;
-}
-
-#contact div.quotewrapper div#quotetext{
-	width: 600px;
-	visibility: hidden;
-}
 
 #contact div.quotewrapper{
 	visibility: hidden;
-}
-
-#contact div.quotewrapper #quotetext p{
-	color: rgba(0, 0, 0, 0.83);
-	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.77);
-	text-align: center;
-	margin: auto auto auto auto;
-	font: italic .85em/25px "adelle", serif;
 }
 
 #contact #introtext span{
@@ -215,17 +198,18 @@ a.backnav{
 }
 
 div.footer{
-	background-color: rgba(0, 0, 0, 0.6);
+	background-color: rgb(0, 0, 0);
+	opacity: 0.75;
 	margin-top: 100px;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	font: normal normal 13px/20px "adelle", serif;
 	position: absolute;
-	width: 750px;
-	left: -1px;
-	color: rgba(255, 255, 255, 0.74);
+	width: 100%;
+/*	left: -1px;*/
+	color: rgb(161, 161, 161);
 	text-decoration: none;
-	text-shadow: 0 -1.5px 0 rgba(0, 0, 0, 0.78);
+	text-shadow: 0 -1.5px 0 rgb(0, 0, 0);
 	overflow: auto;
 	display: block;
 
@@ -237,8 +221,8 @@ div.footer ul{
 }
 
 div.footer ul li a{
-	color: rgba(255, 255, 255, 0.84);
-	text-shadow: 0 -1.5px 0 rgba(0, 0, 0, 0.78);
+	color: rgb(206, 206, 206);
+	text-shadow: 0 -1.5px 0 rgb(0, 0, 0);
 	text-decoration: none;
 	font-variant: normal;
 }
