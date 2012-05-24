@@ -23,6 +23,7 @@ body{
 	width:750px;
 	margin:0px auto;
 	text-align:left;
+	left: -1px;
 	position: relative;
 }
 
